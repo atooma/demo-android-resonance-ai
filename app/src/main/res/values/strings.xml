@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Resonance AI SDK sample app</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string tools:override="true" name="txt_stop">STOP</string>
+    <string tools:override="true" name="txt_run">PLAY</string>
+</resources>

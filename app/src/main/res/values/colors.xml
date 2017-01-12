@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color tools:override="true" name="colorPrimary">#3F51B5</color>
+    <color tools:override="true" name="colorPrimaryDark">#303F9F</color>
+    <color tools:override="true" name="colorAccent">#FF4081</color>
+    <color tools:override="true" name="colorRulesBackground">#FFFFFF</color>
+</resources>
