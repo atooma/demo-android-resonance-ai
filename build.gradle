@@ -19,6 +19,7 @@ allprojects {
         jcenter()
 
         maven {
+            // URL should start with HTTPS protocol definition
             url "${resonance_ai_repo_url}/releases"
             credentials {
                 username "${resonance_ai_repo_user}"
